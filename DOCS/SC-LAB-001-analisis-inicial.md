@@ -4,7 +4,7 @@
 
 ### Ingeniería en Sistemas Computacionales
 
-**Unidad de Aprendizaje:** Técnicas de Adquisición de Datos  
+**Unidad de Aprendizaje:** Desarrollo Seguro
 **Asignación:** SC-LAB-001  
 **Profesora:** Marelis Lara Carrillo  
 
