@@ -101,21 +101,4 @@ Definir desde Requisitos la matriz de permisos del administrador, estableciendo 
 
 ---
 
-## Evidencia en GitHub
 
-Ruta solicitada:
-
-```text
-docs/security/SC-LAB-003-shift-left-analysis.md
-```
-
-Flujo obligatorio:
-
-```bash
-git status
-git diff
-git add
-git diff --staged
-git commit
-git push
-```
